@@ -46,7 +46,7 @@ chainmap==1.0.2
 chardet==3.0.4
 configparser==3.5.0
 cookies==2.2.1
-cryptography==2.4.2
+cryptography==41.0.5
 docker==3.5.1
 docker-pycreds==0.3.0
 docopt==0.6.2
@@ -106,6 +106,6 @@ uritemplate==3.0.0
 urllib3==1.24.1
 wcwidth==0.1.7
 websocket-client==0.54.0
-Werkzeug==0.14.1
+Werkzeug==3.0.1
 wrapt==1.10.11
 xmltodict==0.11.0
